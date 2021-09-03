@@ -1,4 +1,4 @@
-[![Build Status](http://localhost:8080/buildStatus/icon?job=jenkins-git)](http://localhost:8080/job/jenkins-git/)
+[![Build Status](http://192.168.0.104:8080/buildStatus/icon?job=jenkins-git)](http://localhost:8080/job/jenkins-git/)
 # jenkins-git
 
 
